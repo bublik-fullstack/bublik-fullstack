@@ -41,9 +41,9 @@ JWT-аутентификация, разграничение доступа (п�
 <h3 align="left">🛠Основные инструменты разработки:</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="postgresql logo"  />
 </div>
 
 <h2 align="center">Языки:<h2>
