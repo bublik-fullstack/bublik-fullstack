@@ -46,7 +46,9 @@ JWT-аутентификация, разграничение доступа (п�
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="postgresql logo"  />
 </div>
 
-
+<h2>Языки<h2>
+•Русский — <h2>стоковый<h2>
+•Английский — <h2>B2<h2>
 
 
 
