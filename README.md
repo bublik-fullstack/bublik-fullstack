@@ -46,7 +46,7 @@ JWT-аутентификация, разграничение доступа (п�
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="postgresql logo"  />
 </div>
 
-<p align="center">Языки:<p>
+<h2 align="center">Языки:<h2>
 
 <p align="left">Русский — родной 
 Английский — В2
@@ -61,18 +61,6 @@ JWT-аутентификация, разграничение доступа (п�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-///
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=/bublik-fullstack/portfolio&"  />
 </div>
