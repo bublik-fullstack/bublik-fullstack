@@ -1,14 +1,14 @@
 ###
-<h3 align="left">Портфолио</h1>
+<h1 align="left">Портфолио</h1>
 
-<h1 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠Основные инструменты разработки:</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="postgresql logo"  />
 </div>
 
 <div align="center">
