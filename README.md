@@ -37,7 +37,17 @@ JWT-аутентификация, разграничение доступа (п�
 Разделение на слои: views → services → models
 Транзакционная целостность при создании коммитов
 Фоновые задачи для пересчёта размеров и GC висячих блобов
-Триггеры PostgreSQL для атомарного обновления счётчиков.<p align="center">
+Триггер PostgreSQL для атомарного обновления счётчиков.<p align="center">
+<p1>
+
+2.Mini GitHub Frontend — клиент для API Mini GitHub.
+
+Стек: React, TypeScript, Vite, React Router, Axios
+
+<p align="center">Описание:<p>
+
+<p align="center">Одностраничное приложение для работы с API Mini GitHub. JWT-аутентификация, навигация по репозиториям, дерево файлов, просмотр diff, Issues и прогоны CI.
+Тёмная тема в стиле GitHub, компонентная архитектура, строгая типизация.<p align="center">
 <p1>
 
 <h3 align="left">🛠Основные инструменты разработки:</h3>
@@ -48,6 +58,10 @@ JWT-аутентификация, разграничение доступа (п�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="50" alt="vite logo"  />
 </div>
 
 <h2 align="center">Языки:<h2>
