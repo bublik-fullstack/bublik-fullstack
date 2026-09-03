@@ -1,7 +1,5 @@
 ///
 
-  <img src='file:///D:/zagruzki/pixelate-bublik_fullstack.svg' />
-
 ///
 <h1 align="left">Портфолио</h1>
 
