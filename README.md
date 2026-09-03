@@ -17,7 +17,7 @@
 
 1.Mini GitHub — платформа совместной разработки.
 
-Стек: Python, FastAPI, PostgreSQL, Redis, Celery, Docker
+Стек: Python, Django, PostgreSQL, Redis, Celery, Docker
 
 <p align="center">Описание:<p>
 
@@ -45,7 +45,9 @@ JWT-аутентификация, разграничение доступа (п�
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
 </div>
 
 <h2 align="center">Языки:<h2>
