@@ -1,6 +1,6 @@
-///
+
 ![bublik_fullstack](pixelate-bublik_fullstack.svg)
-///
+
 <h1 align="left">Портфолио</h1>
 
 
