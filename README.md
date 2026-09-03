@@ -1,5 +1,5 @@
 ///
-
+![bublik_fullstack](assets/banner.svg)
 ///
 <h1 align="left">Портфолио</h1>
 
