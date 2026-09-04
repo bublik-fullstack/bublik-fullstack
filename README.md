@@ -16,10 +16,16 @@
 🧑‍💻Реализованнные проекты:
 
 1.Mini GitHub — платформа совместной разработки.
+[Стек: Python, Django, PostgreSQL, Redis, Celery, Docker]
 
-Стек: Python, Django, PostgreSQL, Redis, Celery, Docker
-
-
+2.TODOst — приложение для управления задачами с:
+- Авторизацией (JWT токены)
+- Работой с досками (boards)
+- Колонками (columns) с Drag & Drop
+- Задачами (tasks) с приоритетами и дедлайнами
+- Комментариями к задачам
+- Поиском и фильтрацией
+[Стек: Python, FastAPI, PostgreSQL, Docker Compose, React 18 + TypeScript]
 
 <h3 align="left">🛠Основные инструменты разработки:</h3>
 
